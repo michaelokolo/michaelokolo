@@ -12,21 +12,26 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div id="badges" align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=michaelokolo&style=flat-square&color=blue" alt=""/>
-</div>
+</p>
 <p align="center">
   Hi 👋, I'm Michael Okolo
 </p>
-<hr height="0.5">
+
+<hr>
+<div align="center">
+  <img src="https://github.com/michaelokolo/michaelokolo/assets/91018269/2cefb90b-8407-48e6-8d21-61312a0b06ae">
+</div>
 <p align="center">A Software Engineer</p>
 
-A dedicated self-taught software engineer from Nigeria who specializes in full stack web development. I love coming up with ideas for software and turning them into beautiful user interfaces. I pay close attention to the user experience, architectural design, and code quality of the things I create. I love connecting with new people, give a shout at <a href="mailto:michaelokolo62@yahaoo.com">michaelokolo62@yahoo.com</a>
+### :man_technologist: About Me:
+I am a dedicated self-taught software engineer from Nigeria who specializes in full stack web development. I love coming up with ideas for software and turning them into beautiful user interfaces. I pay close attention to the user experience, architectural design, and code quality of the things I create. I love connecting with new people, give a shout at <a href="mailto:michaelokolo62@yahaoo.com">michaelokolo62@yahoo.com</a>
 <hr>
 
 
-### :hammer_and_wrench: Languages and tools:<br><br>
-[![My Skills](https://skills.thijs.gg/icons?i=react,html,javascript,github,css,bootstrap,jquery&theme=light)](https://skills.thijs.gg)
+### :hammer_and_wrench: Languages and tools:<br>
+<img src="https://skills.thijs.gg/icons?i=react,html,javascript,github,css,bootstrap,jquery&theme=light" width="200"/>
 <hr>
 🔭 I’m currently working on <a href="https://github.com/michaelokolo/Quizzical-App">Quizzical App</a><br>
 🌱 I’m currently learning React <br>
