@@ -42,5 +42,6 @@ I am a dedicated self-taught software engineer from Nigeria who specializes in f
 
 ### :fire: My Stats:<br><br>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=michaelokolo&theme=dark&hide_border=true"/>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelokolo&layout=compact&theme=vision-friendly-dark"/>
 
