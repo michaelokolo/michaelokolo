@@ -33,8 +33,14 @@ I am a dedicated self-taught software engineer from Nigeria who specializes in f
 ### :hammer_and_wrench: Languages and tools:<br>
 <img src="https://skills.thijs.gg/icons?i=react,html,javascript,github,css,bootstrap,jquery&theme=light" width="200"/>
 <hr>
-🔭 I’m currently working on <a href="https://github.com/michaelokolo/Quizzical-App">Quizzical App</a><br>
-🌱 I’m currently learning React <br>
-📫 How to reach me: <a href="mailto:michaelokolo62@yahoo.com">michaelokolo62@yahoo.com</a><br>
-⚡ Fun fact: I love guitar and football
+- :telescope: I’m currently working on <a href="https://github.com/michaelokolo/Quizzical-App">Quizzical App</a><br>
+- :seedling: I’m currently learning <a href="#"><img src="https://skills.thijs.gg/icons?i=react&theme=dark" width="20" align="center"/></a><br>
+- :mailbox: How to reach me: <a href="mailto:michaelokolo62@yahoo.com">michaelokolo62@yahoo.com</a><br>
+- :zap: Fun fact: I love playing ⚽ & 🎸
+<hr>
+
+
+### :fire: My Stats:<br><br>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=michaelokolo&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelokolo&layout=compact&theme=vision-friendly-dark"/>
 
