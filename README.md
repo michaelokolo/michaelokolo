@@ -5,15 +5,15 @@
 <hr height="0.5">
 <p align="center">A Software Engineer</p>
 
-A dedicated self-taught software engineer from Nigeria who specializes in full stack web development. I love coming up with ideas for software and turning them into beautiful user interfaces. I pay close attention to the user experience, architectural design, and code quality of the things I create.
+A dedicated self-taught software engineer from Nigeria who specializes in full stack web development. I love coming up with ideas for software and turning them into beautiful user interfaces. I pay close attention to the user experience, architectural design, and code quality of the things I create. I love connecting with new people, give a shout at <a href="mailto:michaelokolo62@yahaoo.com">michaelokolo62@yahoo.com</a>
 <hr>
 
 
-- Languages and tools:<br><br>
+Languages and tools:<br><br>
 [![My Skills](https://skills.thijs.gg/icons?i=react,html,javascript,github,css,bootstrap,jquery&theme=light)](https://skills.thijs.gg)
 <hr>
-- 🔭 I’m currently working on <br>
+- 🔭 I’m currently working on <a href="https://github.com/michaelokolo/Quizzical-App">Quizzical App</a><br>
 - 🌱 I’m currently learning React <br>
-- 📫 How to reach me: <a href="mailto:michaelokolo62@yahoo.com"> email</a><br>
-- ⚡ Fun fact: 
+- 📫 How to reach me: <a href="mailto:michaelokolo62@yahoo.com">michaelokolo62@yahoo.com</a><br>
+- ⚡ Fun fact: I love guitar and football
 
