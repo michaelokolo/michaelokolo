@@ -13,7 +13,7 @@
   </a>
 </div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=michaelokolo&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=michaelokolo&style=flat-square&color=blue" alt="" width="200"/>
 </p>
 <p align="center">
   Hi 👋, I'm Michael Okolo
