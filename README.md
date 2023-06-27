@@ -31,7 +31,7 @@ I am a dedicated self-taught software engineer from Nigeria who specializes in f
 
 
 ### :hammer_and_wrench: Languages and tools:<br>
-<img src="https://skills.thijs.gg/icons?i=react,html,javascript,github,css,bootstrap,jquery&theme=light" width="200"/>
+<img src="https://skills.thijs.gg/icons?i=react,html,javascript,github,css,bootstrap,node,expressjquery&theme=light" width="200"/>
 <hr>
 - :telescope: I’m currently working on <a href="https://github.com/michaelokolo/Quizzical-App">Quizzical App</a><br>
 - :seedling: I’m currently learning <a href="#"><img src="https://skills.thijs.gg/icons?i=react&theme=dark" width="20" align="center"/></a><br>
