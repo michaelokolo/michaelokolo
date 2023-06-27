@@ -21,7 +21,7 @@
 
 <hr>
 <div align="center">
-  <img src="https://github.com/michaelokolo/michaelokolo/assets/91018269/2cefb90b-8407-48e6-8d21-61312a0b06ae" width="200">
+  <img src="https://github.com/michaelokolo/michaelokolo/assets/91018269/2cefb90b-8407-48e6-8d21-61312a0b06ae" width="300">
 </div>
 <p align="center">A Software Engineer</p>
 
