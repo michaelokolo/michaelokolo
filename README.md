@@ -34,7 +34,7 @@ I am a dedicated self-taught software engineer from Nigeria who specializes in f
 <img src="https://skills.thijs.gg/icons?i=react,html,javascript,github,css,bootstrap,express,nodejs,jquery&theme=light" width="200"/>
 <hr>
 - :telescope: I’m currently working on <a href="https://github.com/michaelokolo/Quizzical-App">Quizzical App</a><br>
-- :seedling: I’m currently learning <a href="#"><img src="https://skills.thijs.gg/icons?i=react&theme=dark" width="20" align="center"/></a><br>
+- :seedling: I’m currently learning <a href="#"><img src="https://skills.thijs.gg/icons?i=express & nodejs&theme=dark" width="20" align="center"/></a><br>
 - :mailbox: How to reach me: <a href="mailto:michaelokolo62@yahoo.com">michaelokolo62@yahoo.com</a><br>
 - :zap: Fun fact: I love playing ⚽ & 🎸
 <hr>
