@@ -26,7 +26,7 @@
 <p align="center">A Software Engineer</p>
 
 ### :man_technologist: About Me:
-I am a dedicated self-taught software engineer from Nigeria who specializes in full stack web development. I love coming up with ideas for software and turning them into beautiful user interfaces. I pay close attention to the user experience, architectural design, and code quality of the things I create. I love connecting with new people, give a shout at <a href="mailto:michaelokolo62@yahaoo.com">michaelokolo62@yahoo.com</a>
+I am a dedicated self-taught React and .NET Developer who specializes in full stack web development. I love coming up with ideas for software and turning them into beautiful user interfaces. I pay close attention to the user experience, architectural design, and code quality of the things I create. I love connecting with new people, give a shout at <a href="mailto:michaelokolo62@yahaoo.com">michaelokolo62@yahoo.com</a>
 <hr>
 
 
