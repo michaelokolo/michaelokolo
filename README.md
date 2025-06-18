@@ -22,7 +22,7 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,dotnet,typescript,javascript,html,css,bootstrap,tailwind,nodejs,express,postgres,mongodb,git,github,figma,azure,vercel,linux" alt="Tech Stack" /> </p>
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=michaelokolo&show_icons=true&theme=tokyonight&hide_border=true" alt="Michael's GitHub Stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelokolo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> <br> [![GitHub Streak](https://streak-stats.demolab.com?user=michaelokolo&theme=highcontrast)](https://git.io/streak-stats) </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=michaelokolo&show_icons=true&theme=tokyonight&hide_border=true" alt="Michael's GitHub Stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelokolo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> <br> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=michaelokolo&theme=highcontrast" alt="GitHub Streak" /></a> </p>
 
 
 🌱 Currently Learning
