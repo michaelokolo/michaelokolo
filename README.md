@@ -56,7 +56,6 @@
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=michaelokolo&show_icons=true&theme=tokyonight&hide_border=true" alt="Michael's GitHub Stats" /> <br> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelokolo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> <br> 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=michaelokolo&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 
