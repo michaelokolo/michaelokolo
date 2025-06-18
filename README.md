@@ -38,6 +38,9 @@
 
 ⚽ Fun fact: I love playing football & guitar!
 
+<br>
+<br>
+<hr>
 
 🛠️ Tech Stack
 
@@ -45,12 +48,19 @@
   <img src="https://skillicons.dev/icons?i=react,dotnet,typescript,javascript,html,css,bootstrap,tailwind,nodejs,express,postgres,mongodb,git,github,figma,azure,vercel,linux" alt="Tech Stack" /> 
 </p>
 
+<br>
+<br>
+<hr>
+
 📈 GitHub Stats
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=michaelokolo&show_icons=true&theme=tokyonight&hide_border=true" alt="Michael's GitHub Stats" /> <br> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelokolo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> <br> 
 </p>
 
+<br>
+<br>
+<hr>
 
 
 🌱 Currently Learning
