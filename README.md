@@ -45,7 +45,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=react,dotnet,cs,typescript,javascript,html,css,bootstrap,tailwind,nodejs,express,postgres,mongodb,prisma,nextjs,git,bitbucket,github,figma,azure,vercel,linux,kubernetes" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,dotnet,cs,typescript,javascript,html,css,sass,bootstrap,tailwind,nodejs,express,postgres,mongodb,prisma,sqlite,nextjs,git,githubactions,bitbucket,github,webpack,figma,azure,vercel,linux,docker,kubernetes,bash,cloudflare,postman" alt="Tech Stack" />
 </p>
 
 
