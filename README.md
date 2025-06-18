@@ -72,7 +72,9 @@
 
 <br>
 <hr>
-📫 How to reach me
+
+### 📫 How to reach me
+
 - Email: michaelokolo62@yahoo.com
 
 - LinkedIn: https://www.linkedin.com/in/michael-okolo-b24497b2/
