@@ -26,17 +26,17 @@
 
 ### 👨‍💻 About Me
 
-💡 Self-taught full stack developer specializing in React and .NET
+- 💡 Self-taught full stack developer specializing in React and .NET
 
-🎨 Passionate about building beautiful, user-friendly web applications
+- 🎨 Passionate about building beautiful, user-friendly web applications
 
-🏗️ Focused on clean architecture, performance, and code quality
+- 🏗️ Focused on clean architecture, performance, and code quality
 
-🤝 Always open to collaboration and connecting with fellow developers
+- 🤝 Always open to collaboration and connecting with fellow developers
 
-📧 Reach me at: michaelokolo62@yahoo.com
+- 📧 Reach me at: michaelokolo62@yahoo.com
 
-⚽ Fun fact: I love playing football & guitar!
+- ⚽ Fun fact: I love playing football & guitar!
 
 
 <br>
@@ -53,7 +53,7 @@
 <hr>
 
 ### 📈 GitHub Stats
-<p align="center"> 
+<p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=michaelokolo&show_icons=true&theme=tokyonight&hide_border=true" alt="Michael's GitHub Stats" /> <br> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelokolo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> <br> 
 </p>
@@ -64,18 +64,18 @@
 
 
 ### 🌱 Currently Learning
-Advanced .NET APIs & Microservices
+- Advanced .NET APIs & Microservices
 
-Cloud deployment with Azure
+- Cloud deployment with Azure
 
-UI/UX best practices with Figma
+- UI/UX best practices with Figma
 
 <br>
 <hr>
-### 📫 How to reach me
-Email: michaelokolo62@yahoo.com
+📫 How to reach me
+- Email: michaelokolo62@yahoo.com
 
-LinkedIn
+- LinkedIn: https://www.linkedin.com/in/michael-okolo-b24497b2/
 <hr>
 
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
