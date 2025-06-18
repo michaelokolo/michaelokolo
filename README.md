@@ -38,7 +38,7 @@
 
 ⚽ Fun fact: I love playing football & guitar!
 
-<br>
+
 <br>
 <hr>
 
@@ -48,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=react,dotnet,typescript,javascript,html,css,bootstrap,tailwind,nodejs,express,postgres,mongodb,git,github,figma,azure,vercel,linux" alt="Tech Stack" /> 
 </p>
 
-<br>
+
 <br>
 <hr>
 
@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelokolo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> <br> 
 </p>
 
-<br>
+
 <br>
 <hr>
 
