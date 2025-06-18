@@ -24,7 +24,7 @@
 <br>
 <hr>
 
-👨‍💻 About Me
+### 👨‍💻 About Me
 
 💡 Self-taught full stack developer specializing in React and .NET
 
@@ -52,7 +52,7 @@
 <br>
 <hr>
 
-📈 GitHub Stats
+### 📈 GitHub Stats
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=michaelokolo&show_icons=true&theme=tokyonight&hide_border=true" alt="Michael's GitHub Stats" /> <br> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelokolo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> <br> 
@@ -63,16 +63,19 @@
 <hr>
 
 
-🌱 Currently Learning
+#### 🌱 Currently Learning
 Advanced .NET APIs & Microservices
 
 Cloud deployment with Azure
 
 UI/UX best practices with Figma
 
-📫 How to reach me
+<br>
+<hr>
+#### 📫 How to reach me
 Email: michaelokolo62@yahoo.com
 
 LinkedIn
+<hr>
 
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
