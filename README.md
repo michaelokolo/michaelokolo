@@ -42,7 +42,7 @@
 <br>
 <hr>
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=react,dotnet,typescript,javascript,html,css,bootstrap,tailwind,nodejs,express,postgres,mongodb,git,github,figma,azure,vercel,linux" alt="Tech Stack" /> 
@@ -63,7 +63,7 @@
 <hr>
 
 
-#### 🌱 Currently Learning
+### 🌱 Currently Learning
 Advanced .NET APIs & Microservices
 
 Cloud deployment with Azure
@@ -72,7 +72,7 @@ UI/UX best practices with Figma
 
 <br>
 <hr>
-#### 📫 How to reach me
+### 📫 How to reach me
 Email: michaelokolo62@yahoo.com
 
 LinkedIn
